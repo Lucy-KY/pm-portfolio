@@ -4,7 +4,7 @@ This repository transforms academic assignments and practical exercises into ind
 
 It highlights my approach to product thinking, problem-solving frameworks, and cross-functional collaboration, presenting a cohesive body of work that reflects my capabilities as a product manager in both technical and business-driven environments.
 
-**Contents include:**
+**🔧Contents include:**
 
 * 📌 Case-based PM artifacts rewritten from real coursework during my Master study
 
@@ -17,5 +17,19 @@ It highlights my approach to product thinking, problem-solving frameworks, and c
 * 💰 Financial modeling (ROI, NPV, payback) for product decisions
 
 * 🚀 End-to-end product case studies showing problem → insights → solution → metrics
+
+**🎯 Purpose of This Portfolio**
+
+To demonstrate my ability to:
+
+* Turn business problems into actionable product frameworks
+
+* Apply analytical reasoning and data insights
+
+* Drive prioritization and trade-offs
+
+* Communicate clearly with engineers, designers, and leadership
+
+* Deliver structured, execution-ready product documentation
 
 This portfolio is continuously updated as I refine past work and add new case studies.
